@@ -1,0 +1,10 @@
+document.addEventListener("DOMContentLoaded", function () {
+    const btn = document.getElementById("applyColorBtn");
+    const colorPicker = document.getElementById("colorPicker");
+    const feedback = document.getElementById("feedbackMessage");
+
+    btn.addEventListener("click", function () {
+        document.body.style.backgroundColor = colorPicker.value;
+        feedback.textContent = "Background color updated.";
+    });
+});

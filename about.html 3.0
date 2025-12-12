@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Emma</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Me</a>
+        <a href="recipes.html">Recipes</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="mealplanner.html">Meal Planner</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <h1>About Me</h1>
+
+    <img src="https://images.unsplash.com/photo-1501973801540-537f08ccae7b" alt="Sunrise">
+
+    <p>My name is Emma. I enjoy cooking, taking photos, and learning how to build websites.</p>
+
+    <ul>
+        <li>Favorite color: pink</li>
+        <li>Favorite drink: iced caramel latte</li>
+        <li>Hobby: practicing web development</li>
+    </ul>
+</body>
+</html>

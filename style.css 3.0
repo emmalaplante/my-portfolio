@@ -1,0 +1,27 @@
+body {
+    background: #fff8fc;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #ff66a3;
+}
+
+img {
+    width: 500px;
+    border-radius: 10px;
+    display: block;
+    margin: 20px 0;
+}
+
+h1 {
+    color: #ff4f96;
+}

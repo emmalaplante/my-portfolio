@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Emma's Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Me</a>
+        <a href="recipes.html">Recipes</a>
+        <a href="gallery.html">Gallery</a>
+        <a href="mealplanner.html">Meal Planner</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <h1>Welcome to My Website</h1>
+    <p>This is a small website I created to practice web design and share a few things I enjoy.</p>
+
+    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="Beach Travel Photo">
+
+    <p>Here is an external link required for the project: <a href="https://google.com">Google</a></p>
+</body>
+</html>
